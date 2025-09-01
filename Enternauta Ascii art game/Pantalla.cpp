@@ -1,3 +1,4 @@
+#include <cstring>
 #include "Pantalla.h"
 #include <iostream>
 #include <chrono>
